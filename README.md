@@ -1,8 +1,5 @@
 # Email Service Microservice
 
-[![Build Status](https://travis-ci.org/YourUsername/EmailService.svg?branch=master)](https://travis-ci.org/YourUsername/EmailService)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 The Email Service is an external microservice designed to handle email functionality for the Departmental Crud Application. It operates independently on a different port and seamlessly integrates with the main application to send order details to the customer's email address.
 
 ## Features
